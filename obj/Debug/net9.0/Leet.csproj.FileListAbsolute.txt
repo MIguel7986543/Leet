@@ -1,0 +1,15 @@
+C:\Users\user\Documents\Pasta atividade\Leet\bin\Debug\net9.0\Leet.exe
+C:\Users\user\Documents\Pasta atividade\Leet\bin\Debug\net9.0\Leet.deps.json
+C:\Users\user\Documents\Pasta atividade\Leet\bin\Debug\net9.0\Leet.runtimeconfig.json
+C:\Users\user\Documents\Pasta atividade\Leet\bin\Debug\net9.0\Leet.dll
+C:\Users\user\Documents\Pasta atividade\Leet\bin\Debug\net9.0\Leet.pdb
+C:\Users\user\Documents\Pasta atividade\Leet\obj\Debug\net9.0\Leet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\Pasta atividade\Leet\obj\Debug\net9.0\Leet.AssemblyInfoInputs.cache
+C:\Users\user\Documents\Pasta atividade\Leet\obj\Debug\net9.0\Leet.AssemblyInfo.cs
+C:\Users\user\Documents\Pasta atividade\Leet\obj\Debug\net9.0\Leet.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Pasta atividade\Leet\obj\Debug\net9.0\Leet.sourcelink.json
+C:\Users\user\Documents\Pasta atividade\Leet\obj\Debug\net9.0\Leet.dll
+C:\Users\user\Documents\Pasta atividade\Leet\obj\Debug\net9.0\refint\Leet.dll
+C:\Users\user\Documents\Pasta atividade\Leet\obj\Debug\net9.0\Leet.pdb
+C:\Users\user\Documents\Pasta atividade\Leet\obj\Debug\net9.0\Leet.genruntimeconfig.cache
+C:\Users\user\Documents\Pasta atividade\Leet\obj\Debug\net9.0\ref\Leet.dll
