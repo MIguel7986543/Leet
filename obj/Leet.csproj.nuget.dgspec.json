@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\Documents\\Pasta atividade\\Leet\\Leet.csproj": {}
+    "C:\\Users\\user\\Documents\\Leet\\Leet\\Leet.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\Documents\\Pasta atividade\\Leet\\Leet.csproj": {
+    "C:\\Users\\user\\Documents\\Leet\\Leet\\Leet.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\Documents\\Pasta atividade\\Leet\\Leet.csproj",
+        "projectUniqueName": "C:\\Users\\user\\Documents\\Leet\\Leet\\Leet.csproj",
         "projectName": "Leet",
-        "projectPath": "C:\\Users\\user\\Documents\\Pasta atividade\\Leet\\Leet.csproj",
+        "projectPath": "C:\\Users\\user\\Documents\\Leet\\Leet\\Leet.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\Documents\\Pasta atividade\\Leet\\obj\\",
+        "outputPath": "C:\\Users\\user\\Documents\\Leet\\Leet\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
